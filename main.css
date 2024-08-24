@@ -1,0 +1,45 @@
+* {
+    font-family: "New Amsterdam", sans-serif;
+    font-style: normal;
+}
+
+h1, nav {
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+}
+
+.navbar-nav .nav-link.active {
+    color: #ffa8e9;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+#faq { 
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#festival, #lineup, #faq {
+    padding-top: 40px;
+}
+
+.tab-content {
+    padding-top: 20px;
+}
+
+article .btn {
+    background-color: #a5ccf1;
+    border-color: #fff;
+}
+
